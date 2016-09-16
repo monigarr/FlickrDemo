@@ -21,8 +21,8 @@ Android app shows images from Flickr search API.
 https://github.com/monigarr/FlickrDemo/blob/master/AndroidImzyTechInterview.pdf
 
 # SCREENSHOTS & RECORDING #
-![MainActivity](https://github.com/monigarr/FlickrDemo/blob/master/MainActivity.png width=15%)
-![SearchActivity](https://github.com/monigarr/FlickrDemo/blob/master/SearchActivity.png width=15%)
-![ImageDetailsActivity](https://github.com/monigarr/FlickrDemo/blob/master/image_detail.png width=15%)
-![ScreenRecording](https://github.com/monigarr/FlickrDemo/blob/master/device-2016-09-15-222242.mp4 width=15%)
+![MainActivity](<img src="https://github.com/monigarr/FlickrDemo/blob/master/MainActivity.png" width="144" height="256")
+![SearchActivity](img src="https://github.com/monigarr/FlickrDemo/blob/master/SearchActivity.png" width="144" height="256")
+![ImageDetailsActivity](img src="https://github.com/monigarr/FlickrDemo/blob/master/image_detail.png" width="144" height="256")
+![ScreenRecording](https://github.com/monigarr/FlickrDemo/blob/master/device-2016-09-15-222242.mp4)
 
