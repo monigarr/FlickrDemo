@@ -1,0 +1,20 @@
+# FlickrDemo
+
+Android app shows images from Flickr search API.
+
+# FUNCTIONAL REQUIREMENTS #
+
+1. Search field for flickr search.
+2. Search Results: image & title
+3. Infinite Scroll
+4. Tap image to view details in new full screen activity
+
+# TECH REQUIREMENTS #
+1. Flickr REST API
+2. API consumed via JSON
+3. 3rd Party Libraries: Picasso
+
+# RESOURCES #
+1. Flickr API: https://www.flickr.com/services/api/
+
+# DESIGNER MOCKUP #
