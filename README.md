@@ -22,8 +22,8 @@ https://github.com/monigarr/FlickrDemo/blob/master/AndroidImzyTechInterview.pdf
 
 # SCREENSHOTS & RECORDING #
 <img src="https://github.com/monigarr/FlickrDemo/blob/master/MainActivity.png" width="144" height="256">
-img src="https://github.com/monigarr/FlickrDemo/blob/master/SearchActivity.png" width="144" height="256">
-img src="https://github.com/monigarr/FlickrDemo/blob/master/image_detail.png" width="144" height="256">
+<img src="https://github.com/monigarr/FlickrDemo/blob/master/SearchActivity.png" width="144" height="256">
+<img src="https://github.com/monigarr/FlickrDemo/blob/master/image_detail.png" width="144" height="256">
 
 
 ![ScreenRecording](https://github.com/monigarr/FlickrDemo/blob/master/device-2016-09-15-222242.mp4)
