@@ -18,3 +18,4 @@ Android app shows images from Flickr search API.
 1. Flickr API: https://www.flickr.com/services/api/
 
 # DESIGNER MOCKUP #
+https://github.com/monigarr/FlickrDemo/blob/master/AndroidImzyTechInterview.pdf
